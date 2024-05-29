@@ -1,0 +1,1043 @@
+@media (min-width: 1440px) {
+    .banner-content h1 {
+        font-size: 72px;
+    }
+
+    .banner-content h2 {
+        font-size: 26px;
+    }
+
+    .banner-content ul {
+        font-size: 18px;
+    }
+
+    .page-title {
+        font-size: 102px;
+    }
+
+    .graphics-work span {
+        height: 250px;
+        width: 250px;
+        font-size: 30px;
+    }
+
+    .color-schemes span {
+        height: 150px;
+        width: 150px;
+    }
+
+    .video-editing span {
+        height: 175px;
+        width: 175px;
+        font-size: 30px;
+    }
+
+    .marketing-materials span {
+        height: 200px;
+        width: 200px;
+    }
+
+    .creative-brand span {
+        height: 300px;
+        width: 300px;
+        font-size: 36px;
+    }
+
+    .portfolio-title {
+        font-size: 48px;
+    }
+
+    #resource-slider .resource-slider-frame {
+        height: 275px;
+    }
+
+    .resource .portfolio-item-name {
+        font-size: 18px;
+        letter-spacing: 1px;
+    }
+
+    .brochure-design-image {
+        width: 170px;
+    }
+
+    .graphics-design {
+        width: 350px;
+    }
+
+    .stationery-design {
+        width: 275px;
+    }
+
+    .brand-design, .brand-design-image.paper {
+        width: 250px;
+    }
+
+    .brand-design-image.logo {
+        width: 70px;
+    }
+
+    .video-design {
+        width: 250px;
+    }
+
+    .video-design span {
+        line-height: 100px;
+    }
+
+    .layout-design-image, .layout-design {
+        width: 375px;
+    }
+}
+
+@media (min-width: 1680px) {
+    .banner-content h1 {
+        font-size: 92px;
+    }
+
+    .banner-content h2 {
+        font-size: 36px;
+    }
+
+    .banner-content ul {
+        font-size: 24px;
+    }
+
+    .graphics-work span {
+        height: 300px;
+        width: 300px;
+        font-size: 36px;
+    }
+
+    .ui-ux span {
+        height: 300px;
+        width: 300px;
+        font-size: 60px;
+    }
+
+    .color-schemes span {
+        height: 200px;
+        width: 200px;
+        font-size: 30px;
+    }
+
+    .creative-brand span {
+        height: 310px;
+        width: 310px;
+        font-size: 52px;
+    }
+
+    .video-editing span {
+        height: 225px;
+        width: 225px;
+        font-size: 36px;
+    }
+
+    .front-end-developing span {
+        height: 275px;
+        width: 275px;
+        font-size: 36px;
+    }
+
+    .marketing-materials span {
+        height: 250px;
+        width: 250px;
+        font-size: 30px;
+    }
+
+    .menu-bar a {
+        font-size: 20px;
+        line-height: 60px;
+        height: 60px;
+    }
+
+    .menu-bar ul {
+        border-radius: 30px 0 0 30px;
+    }
+
+    .work-with-me {
+        width: 250px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 18px;
+    }
+
+    .footer {
+        font-size: 18px;
+    }
+
+    .page-title {
+        font-size: 110px;
+    }
+
+    span.arrow {
+        width: 80px;
+        height: 4px;
+    }
+
+    span.arrow.transform::before {
+        height: 4px;
+        width: 30px;
+        bottom: 10px;
+    }
+
+    span.arrow.transform::after {
+        height: 4px;
+        width: 30px;
+        top: 10px;
+    }
+
+    .modal.service-modal {
+        height: 600px;
+        width: 600px;
+    }
+
+    .modal-title {
+        font-size: 48px;
+    }
+
+    .modal-content {
+        font-size: 20px;
+    }
+
+    #resource-slider .resource-slider-frame {
+        height: 325px;
+    }
+
+    .resource .portfolio-item-name {
+        font-size: 24px;
+    }
+
+    #resource-slider {
+        height: 450px;
+    }
+
+    .video-design span {
+        line-height: 115px;
+    }
+
+    .video-design {
+        width: 275px;
+    }
+
+    .brand-design-image.logo {
+        width: 80px;
+    }
+
+    .brand-design, .brand-design-image.paper {
+        width: 275px;
+    }
+
+    .layout-design-image, .layout-design {
+        width: 400px;
+    }
+
+    .stationery-design {
+        width: 300px;
+    }
+
+    .graphics-design {
+        width: 400px;
+    }
+
+    .brochure-design-image {
+        width: 200px;
+    }
+}
+
+@media (min-width: 1920px) {
+    .banner-content h1 {
+        font-size: 102px;
+    }
+
+    .home-banner {
+        background-size: contain;
+    }
+
+    .footer {
+        font-size: 24px;
+    }
+
+    .work-with-me {
+        width: 300px;
+        height: 60px;
+        line-height: 60px;
+        font-size: 24px;
+    }
+
+    .menu-bar a {
+        font-size: 24px;
+        line-height: 70px;
+        height: 70px;
+    }
+
+    .menu-bar ul {
+        border-radius: 40px 0 0 40px;
+        padding: 0 50px;
+    }
+
+    .menu-bar ul li ~ li {
+        margin-left: 50px;
+    }
+
+    .page-title {
+        font-size: 130px;
+    }
+
+    .modal.service-modal {
+        height: 700px;
+        width: 700px;
+    }
+
+    .modal-title {
+        font-size: 54px;
+    }
+
+    .modal-content {
+        font-size: 24px;
+    }
+
+    .graphics-work span {
+        height: 375px;
+        width: 375px;
+        font-size: 48px;
+    }
+
+    .ui-ux span {
+        height: 350px;
+        width: 350px;
+        font-size: 72px;
+    }
+
+    .color-schemes span {
+        height: 225px;
+        width: 225px;
+    }
+
+    .creative-brand span {
+        height: 350px;
+        width: 350px;
+        font-size: 60px;
+    }
+
+    .video-editing span {
+        height: 250px;
+        width: 250px;
+    }
+
+    .front-end-developing span {
+        height: 300px;
+        width: 300px;
+        font-size: 36px;
+    }
+
+    .marketing-materials span {
+        height: 275px;
+        width: 275px;
+        font-size: 42px;
+    }
+
+    .portfolio-title {
+        font-size: 54px;
+    }
+
+    #resource-slider .resource-slider-frame {
+        height: 350px;
+    }
+
+    .resource .portfolio-item-name {
+        font-size: 24px;
+    }
+
+    #resource-slider {
+        height: 500px;
+    }
+
+    .portfolio-content {
+        bottom: 50px;
+    }
+
+    .brochure-design-image {
+        width: 250px;
+    }
+
+    .graphics-design {
+        width: 475px;
+    }
+
+    .stationery-design {
+        width: 375px;
+    }
+
+    .brand-design-image.logo {
+        width: 100px;
+    }
+
+    .brand-design, .brand-design-image.paper {
+        width: 325px;
+    }
+
+    .video-design span {
+        line-height: 140px;
+    }
+
+    .video-design {
+        width: 325px;
+    }
+
+    .layout-design-image, .layout-design {
+        width: 475px;
+    }
+
+    .brand-design span {
+        top: 50px;
+        font-size: 24px;
+    }
+}
+
+@media (min-width: 2400px) {
+    .banner-content h1 {
+        font-size: 130px;
+    }
+
+    .home-banner {
+        background-size: contain;
+    }
+
+    .banner-content h2 {
+        font-size: 42px;
+        letter-spacing: 2px;
+    }
+
+    .banner-content ul {
+        font-size: 30px;
+    }
+
+    .footer {
+        font-size: 30px;
+    }
+
+    .work-with-me {
+        width: 400px;
+        height: 80px;
+        line-height: 80px;
+        font-size: 30px;
+    }
+
+    .menu-bar a {
+        font-size: 30px;
+        line-height: 90px;
+        height: 90px;
+    }
+
+    .menu-bar ul {
+        border-radius: 50px 0 0 50px;
+    }
+
+    .page-title {
+        font-size: 192px;
+    }
+
+    .modal.service-modal {
+        height: 800px;
+        width: 800px;
+    }
+
+    .modal-title {
+        font-size: 72px;
+    }
+
+    .modal-content {
+        font-size: 30px;
+    }
+
+    .color-schemes span {
+        height: 250px;
+        width: 250px;
+        font-size: 36px;
+    }
+
+    .creative-brand span {
+        height: 450px;
+        width: 450px;
+        font-size: 84px;
+    }
+
+    .video-editing span {
+        height: 300px;
+        width: 300px;
+        font-size: 42px;
+    }
+
+    .front-end-developing span {
+        height: 350px;
+        width: 350px;
+        font-size: 42px;
+    }
+
+    .marketing-materials span {
+        height: 300px;
+        width: 300px;
+        font-size: 48px;
+    }
+
+    .portfolio-title {
+        font-size: 60px;
+    }
+
+    #resource-slider .resource-slider-frame {
+        height: 450px;
+    }
+
+    .resource .portfolio-item-name {
+        font-size: 30px;
+    }
+
+    #resource-slider {
+        height: 600px;
+    }
+
+    .brochure-design-image {
+        width: 300px;
+    }
+
+    .graphics-design {
+        width: 550px;
+    }
+
+    .stationery-design {
+        width: 400px;
+    }
+
+    .brand-design, .brand-design-image.paper {
+        width: 375px;
+    }
+
+    .brand-design span {
+        top: 75px;
+    }
+
+    .video-design {
+        width: 350px;
+    }
+
+    .video-design span {
+        line-height: 160px;
+    }
+
+    .layout-design-image, .layout-design {
+        width: 550px;
+    }
+}
+
+@media (max-width: 1280px) {
+    .banner-content h1 {
+        font-size: 52px;
+    }
+
+    .home-logo img {
+        height: 70vh;
+    }
+
+    .home-banner {
+        max-width: 70vw;
+    }
+
+    .home-logo {
+        max-width: 30vw;
+    }
+
+    .footer .col-9 {
+        max-width: 70%;
+    }
+
+    .footer .col-3 {
+        max-width: 30%;
+    }
+
+    .footer {
+        letter-spacing: 1px;
+        font-size: 14px;
+    }
+
+    .creative-brand span {
+        height: 210px;
+        width: 210px;
+    }
+
+    .ui-ux span {
+        height: 250px;
+        width: 250px;
+    }
+
+    .front-end-developing span {
+        height: 175px;
+        width: 175px;
+    }
+
+    .stationery-design {
+        width: 180px;
+    }
+
+    .graphics-design {
+        width: 300px;
+        top: 0;
+    }
+}
+
+@media (max-width: 1024px) {
+    .banner-content h1 {
+        font-size: 48px;
+    }
+
+    .menu-bar a {
+        line-height: 40px;
+        font-size: 14px;
+        height: 40px;
+    }
+
+    .footer .row {
+        display: block;
+    }
+
+    .footer .col-6 {
+        max-width: 100% !important;
+    }
+
+    .lets-connect {
+        display: inline-flex;
+        margin-bottom: 20px;
+    }
+
+    .home-logo::after {
+        width: 200px;
+    }
+
+    .page-title {
+        font-size: 72px;
+    }
+
+    .graphics-work span {
+        height: 150px;
+        width: 150px;
+        font-size: 20px;
+    }
+
+    .creative-brand span {
+        height: 170px;
+        width: 170px;
+        font-size: 24px;
+    }
+
+    .front-end-developing span {
+        height: 140px;
+        width: 140px;
+        font-size: 18px;
+    }
+
+    .ui-ux span {
+        height: 200px;
+        width: 200px;
+    }
+
+    .service-inner {
+        margin: 100px 0;
+    }
+
+    .brochure-design-title {
+        font-size: 18px !important;
+        bottom: -25px !important;
+    }
+
+    .brochure-design-image {
+        width: 100px;
+    }
+
+    .stationery-design {
+        width: 150px;
+    }
+
+    .portfolio-category.stationery-design span {
+        font-size: 18px;
+    }
+
+    .graphics-design {
+        top: 30px;
+    }
+
+    .brand-design-image.paper, .brand-design, .video-design {
+        width: 170px;
+    }
+
+    .brand-design span {
+        top: 20px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    .home-logo {
+        position: absolute;
+        z-index: 1;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        max-width: 100vw;
+    }
+
+    .home-logo img {
+        height: 80vh;
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+    }
+
+    .home-logo::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        width: 100%;
+        height: 100%;
+        z-index: 2;
+        background: rgba(246, 48, 0, 0.25);
+    }
+
+    .home-banner {
+        background: #f63000;
+        max-width: 100vw;
+    }
+
+    .home-logo::after {
+        width: 300px;
+        bottom: 50px;
+    }
+
+    .page-title {
+        font-size: 60px;
+    }
+
+    .service-inner {
+        margin: 0;
+    }
+
+    .service-inner .col-3 {
+        max-width: 50%;
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .marketing-materials span {
+        height: 150px;
+        width: 150px;
+        font-size: 20px;
+    }
+
+    .ui-ux span {
+        height: 160px;
+        width: 160px;
+        font-size: 24px;
+    }
+
+    .service-inner .col-4 {
+        margin-top: 30px;
+    }
+
+    .service-title.front-end-developing {
+        float: none;
+    }
+
+    .error-404 .page-title {
+        font-size: 48px;
+    }
+
+    .stationery-design {
+        margin-top: 40px;
+    }
+
+    .graphics-design {
+        top: 10px;
+        width: 250px;
+    }
+
+    .portfolio-category.graphics-design span {
+        font-size: 24px;
+        left: 50px;
+    }
+
+    .video-design {
+        width: 150px;
+    }
+
+    .video-design span {
+        line-height: 55px;
+        font-size: 18px;
+    }
+
+    .layout-design {
+        width: 230px;
+        top: 40px;
+        margin: 0;
+    }
+
+    .layout-design span {
+        font-size: 14px;
+    }
+
+    .layout-design-image {
+        width: 230px;
+    }
+
+    .portfolio-title {
+        font-size: 36px;
+    }
+}
+
+@media (max-width: 576px) {
+    .work-with-me {
+        width: 100%;
+        float: none;
+    }
+
+    .services {
+        background: url(../../images/map.svg) no-repeat center fixed;
+        height: auto;
+    }
+
+    .page-title {
+        font-size: 42px;
+    }
+
+    .service-inner .col-3, .service-inner .col-4 {
+        max-width: 100%;
+    }
+
+    .banner-content h1 {
+        font-size: 42px;
+        margin-top: 50px;
+    }
+
+    .banner-content h2 {
+        font-size: 22px;
+    }
+
+    .page-inner {
+        margin: 30px auto 0 auto;
+    }
+
+    .model-img {
+        margin: 10px auto 0 auto;
+        height: 90px;
+    }
+
+    .modal-content {
+        margin-top: 10px;
+    }
+
+    .modal-title {
+        font-size: 36px;
+    }
+
+    .modal.service-modal {
+        height: 450px;
+        width: 450px;
+        position: fixed;
+    }
+
+    .modal-inner {
+        padding: 30px;
+    }
+
+    .error-404 .page-title {
+        font-size: 36px;
+    }
+
+    .portfolio-inner .col-6 {
+        max-width: 100%;
+    }
+
+    .brochure-design-title {
+        font-size: 24px !important;
+        bottom: -40px !important;
+    }
+
+    .brochure-design-image {
+        width: 150px;
+    }
+
+    .stationery-design {
+        margin-top: 0;
+        width: 180px;
+    }
+
+    .graphics-design {
+        top: -30px;
+        width: 250px;
+    }
+
+    .brand-design-image.paper, .brand-design, .video-design {
+        width: 200px;
+    }
+
+    .brand-design span {
+        top: 30px;
+        font-size: 18px;
+    }
+
+    .video-design span {
+        line-height: 80px;
+        font-size: 24px;
+    }
+
+    .layout-design span {
+        font-size: 18px;
+    }
+
+    .layout-design {
+        width: 300px;
+        top: 20px;
+        margin: auto;
+    }
+
+    .layout-design-image {
+        width: 300px;
+    }
+
+    .stationery-design {
+        margin-top: 50px;
+    }
+
+    .portfolio-content {
+        height: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .error-bg {
+        height: 280px;
+        width: 280px;
+    }
+
+    .error-404 .page-title {
+        font-size: 18px;
+    }
+
+    .modal.service-modal {
+        height: 300px;
+        width: 300px;
+    }
+
+    .modal-inner {
+        padding: 10px;
+    }
+
+    .modal-content {
+        font-size: 12px;
+    }
+
+    .modal-title {
+        font-size: 24px;
+    }
+
+    .model-img {
+        display: none;
+    }
+
+    .page-title {
+        font-size: 24px;
+    }
+
+    .home-logo img {
+        height: 60vh;
+    }
+
+    .container.home {
+        height: auto;
+    }
+
+    .banner-content {
+        margin: 0;
+    }
+
+    .banner-content h1 {
+        font-size: 34px;
+        letter-spacing: 1px;
+    }
+
+    .banner-content h2 {
+        font-size: 18px;
+    }
+
+    .banner-content ul {
+        font-size: 14px;
+        letter-spacing: 1px;
+    }
+
+    .lets-connect li:nth-child(1), .lets-connect li:nth-child(2), .home-banner:after {
+        display: none;
+    }
+
+    .home-banner-container {
+        height: 100vh;
+    }
+
+    .portfolio-inner .col-6 a {
+        display: block;
+        float: none;
+        margin: auto;
+    }
+
+    .portfolio-inner .col-6 a ~ a {
+        margin-top: 50px;
+    }
+
+    .brochure-design-image {
+        width: 135px;
+    }
+
+    .brochure-design::after {
+        display: none;
+    }
+
+    .layout-design {
+        width: 270px;
+        top: 0;
+    }
+
+    .layout-design-image {
+        width: 270px;
+    }
+}
+
+/*Portfolio slider CSS*/
+@media ( max-width: 60em ) {
+    #resource-slider .resource-slider-item {
+        width: 33.33%;
+    }
+}
+
+@media ( max-width: 45em ) {
+    #resource-slider .resource-slider-item {
+        width: 50%;
+    }
+}
+
+@media ( max-width: 30em ) {
+    #resource-slider .resource-slider-item {
+        width: 100%;
+    }
+}
+
+@media ( max-width: 992px) {
+    body {
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+}
